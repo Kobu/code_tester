@@ -38,4 +38,7 @@ Ive decided to warn the user of any forgotten print statements as those are not 
 
 ### Final words
 You can change any of the colors as you wish.
+
+I **highly** recommend making a bash alias for this python script as it makes life much easier
+
 If you have any troubles getting this running you can DM me on discord at `GM Kobu#5271`
